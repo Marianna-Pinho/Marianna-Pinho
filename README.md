@@ -38,7 +38,7 @@ My new adventure has been to dive deeper into the data world, learning more<br>
 about machine learning, deep learning, computer vision and data science.
 
 ---
-#### 👯 I’m looking to collaborate on
+#### :busts_in_silhouette: I’m looking to collaborate on
 
 I believe that technology can change the world for better or for worse,<br> 
 depending on how we use it. We have advanced a lot, but we are also seeing <br>
